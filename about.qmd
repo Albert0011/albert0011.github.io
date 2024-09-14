@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+Hello world! My name is Albert. I am currently one of the student in the MDS program in Vancouver. I am 23 years old, hoping that I can be a great data scientist one day :D
