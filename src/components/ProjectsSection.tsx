@@ -6,7 +6,7 @@ const projects = [
     description:
       "UBC MDS Capstone Project - Built an end-to-end pipeline processing 29,000+ SEC filings, combining financial and text data to engineer features using LLM-based analysis. Developed an interpretable model with a 5.7% error rate, delivering actionable insights to support company valuation decisions.",
     url: "https://thequantvaluations.com/",
-    image: "/public/forecast.png",
+    image: "/forecast.png",
     tech: ["Python", 
       "Pandas", 
       "TimeXer",
@@ -25,7 +25,7 @@ const projects = [
     description:
       "Built an interactive web dashboard using Dash (Plotly) and Python to explore Pokémon dataset features—allowing dynamic filtering by type, stats, and generation. Visualizations include bar charts, scatter plots, and boxplots to highlight trends across Pokémon attributes. This tool emphasizes user-driven exploration and insightful visual storytelling.",
     url: "https://dsci-532-2025-06-pokemon-dashboard.onrender.com/",
-    image: "/public/pokemon.gif",
+    image: "/pokemon.gif",
     tech: [
       "Python",
       "Pandas",
@@ -39,7 +39,7 @@ const projects = [
     description:
       "Developed datastructpy, a Python package offering practical and customizable implementations of core data structures like Binary Search Trees (BST), tailored for interview prep, coding challenges, and educational use.",
     url: "https://datastructpy.readthedocs.io/en/latest/?badge=latest",
-    image: "/public/bst.png",
+    image: "/bst.png",
     tech: [
       "Python",
       "Custom Data Structures (BST, Linked List, Stack, Queue)",
@@ -53,7 +53,7 @@ const projects = [
     description:
       "Developed and compared multiple classification models—including Logistic Regression, SVC, and Decision Trees—to predict heart disease using the Cleveland dataset. Achieved 0.84 test accuracy with interpretable models, analyzed misclassifications for feature improvement, and outlined next steps for enhancing clinical usability.",
     url: "https://ubc-mds.github.io/heart_disease_predictor_py/",
-    image: "public/heart_disease.jpg",
+    image: "/heart_disease.jpg",
     tech: [
       "Python",
       "Pandas",
@@ -70,7 +70,7 @@ const projects = [
     description:
       "Developed a BERT-based model for processing Indonesian biomedical data, demonstrating the application of deep learning to healthcare.",
     url: "http://library.binus.ac.id/eColls/eThesisdoc/Abstrak/2221-3585-CSCI-OS1_2_Abstrak.pdf",
-    image: "public/bert.jpg",
+    image: "/bert.jpg",
     tech: [
       "Python",
       "Pandas",
@@ -85,7 +85,7 @@ const projects = [
     description:
       "Developed deep learning models using a customized VGG16 CNN to identify COVID-19 from lung X-ray and CT scan images. The results showed that X-ray-based models outperformed CT scan models, highlighting X-rays as a promising and practical alternative for rapid COVID-19 detection.",
     url: "https://ieeexplore.ieee.org/document/9702839",
-    image: "public/covid19.jpg",
+    image: "/covid19.jpg",
     tech: [
       "Python",
       "PyTorch",
