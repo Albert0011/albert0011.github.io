@@ -1,13 +1,14 @@
 {
-  "name": "react-tailwind-starter",
+  "name": "portfolio-website",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://gitname.github.io/react-gh-pages",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d build",
   },
   "dependencies": {
     "@react-three/drei": "^9.102.6",
